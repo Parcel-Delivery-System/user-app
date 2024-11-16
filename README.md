@@ -37,16 +37,14 @@ The Parcel App project was conceived as part of the Advanced Web Applications De
 Our dedicated team members collaborated to bring the Parcel App to life. Each team member played a crucial role in the project's success.
 
 ## MY Role: 
-In this project, I was responsible for:
+In this project, I was responsible for the complete design, development, and implementation of three key applications, including both frontend and backend components:
 
 - **Locker Simulator Application:**
-   Designed, developed, and implemented the entire application, including both the frontend and backend components.
 
 - **Delivery Driver Application:**
-   Created the entire application including frontend and backend.
-
+  
 - **Parcel Generator "Robot" Application:**
-  Developed the full application with both frontend and backend components.
+ 
 
 
 ## Installation and Usage
