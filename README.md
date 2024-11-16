@@ -27,9 +27,9 @@ The Parcel App project was conceived as part of the Advanced Web Applications De
 - **Parcel generator robot:** An application that generates new parcels for consumer users. 
 
 ## Technologies Used
-**Backend: Node.js, Express**
-**Frontend: JavaScript, React**
-**Database: MySQL**
+- **Backend: Node.js, Express**
+- **Frontend: JavaScript, React**
+- **Database: MySQL**
 
 
 ## Project Team
@@ -39,24 +39,15 @@ Our dedicated team members collaborated to bring the Parcel App to life. Each te
 ## MY Role: 
 In this project, I was responsible for:
 
-**Locker Simulator Application:**
-Designed, developed, and implemented the entire application, including both the frontend and backend components.
+- **Locker Simulator Application:**
+- Designed, developed, and implemented the entire application, including both the frontend and backend components.
 
-**Delivery Driver Application:**
-Created the entire application including frontend and backend.
+- **Delivery Driver Application:**
+- Created the entire application including frontend and backend.
 
-**Parcel Generator "Robot" Application:** 
-Developed the full application with both frontend and backend components.
+- **Parcel Generator "Robot" Application:** 
+- Developed the full application with both frontend and backend components.
 
-
-
-## Database Structure
-
-Parcel App utilizes MySQL, a relational database with a well-defined structure. Key entities include the user table, cabinets table, locations table, and parcel table. The database design is optimized for efficient data retrieval and storage, and relationships are established to maintain data integrity.
-
-## User Interface (UI) Description
-
-Our user interface is crafted to be user-friendly and visually appealing. Users can easily navigate through the application, track parcels, and manage parcel shipments effortlessly. The Responsive UI ensures a user-friendly experience on various screen sizes.
 
 ## Installation and Usage
 
