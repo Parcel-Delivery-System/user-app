@@ -36,16 +36,16 @@ Deployment: Azure
 
 Our dedicated team members collaborated to bring the Parcel App to life. Each team member played a crucial role in the project's success.
 
-## MY Role:Shujuan Xu
+## MY Role: 
 In this project, I was responsible for:
 
-## Locker Simulator Application:
+**Locker Simulator Application:**
 Designed, developed, and implemented the entire application, including both the frontend and backend components.
 
-## Delivery Driver Application: 
+**Delivery Driver Application:**
 Created the entire application including frontend and backend.
 
-## Parcel Generator "Robot" Application: 
+**Parcel Generator "Robot" Application:** 
 Developed the full application with both frontend and backend components.
 
 
@@ -63,10 +63,10 @@ Our user interface is crafted to be user-friendly and visually appealing. Users 
 To get started with Parcel App, follow these simple steps:
 
 1. **Clone the repositories:**
-   - [Consumer User Application](https://github.com/t2hale00/user-app): `git clone https://github.com/t2hale00/user-app.git`
-   - [Delivery Driver Application](https://github.com/t2hale00/delivery-driver-app): `git clone https://github.com/t2hale00/delivery-driver-app.git`
-   - [Locker Simulator](https://github.com/t2hale00/locker-simulator): `git clone https://github.com/t2hale00/locker-simulator.git`
-   - [Parcel Generator “Robot”](https://github.com/t2hale00/parcel-generator-robot): `git clone https://github.com/t2hale00/parcel-generator-robot.git`
+   - [Consumer User Application](https://github.com/Parcel-Delivery-System/user-app): `git clone https://github.com/Parcel-Delivery-System/user-app.git`
+   - [Delivery Driver Application](https://github.com/Parcel-Delivery-System/delivery-driver-app.git): `git clone https://github.com/Parcel-Delivery-System/delivery-driver-app.git`
+   - [Locker Simulator](https://github.com/Parcel-Delivery-System/locker-simulator.git): `git clone https://github.com/Parcel-Delivery-System/locker-simulator.git`
+   - [Parcel Generator “Robot”](https://github.com/Parcel-Delivery-System/parcel-generator-robot.git): `git clone https://github.com/Parcel-Delivery-System/parcel-generator-robot.git`
 
 2. **Install dependencies in every repository:** `npm install` 
 
