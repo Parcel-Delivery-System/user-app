@@ -12,11 +12,11 @@ Our dedicated team members collaborated to bring the Parcel App to life. Each te
 ## MY Role: 
 In this project, I was responsible for the complete design, development, and implementation of three key applications, including both frontend and backend components:
 
-- **Locker Simulator Application:**
+- **Locker Simulator Application**
 
-- **Delivery Driver Application:**
+- **Delivery Driver Application**
   
-- **Parcel Generator "Robot" Application:**
+- **Parcel Generator "Robot" Application**
   
 
 ## Key Features
