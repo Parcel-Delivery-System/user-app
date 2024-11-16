@@ -5,6 +5,20 @@ Welcome to the Parcel App project! This web application simulates an automated p
 
 The Parcel App project was conceived as part of the Advanced Web Applications Development course, aimed at enhancing the web application and development skills of the team members. The goal was to create an app where team members could showcase their skills in web development.
 
+## Project Team
+
+Our dedicated team members collaborated to bring the Parcel App to life. Each team member played a crucial role in the project's success.
+
+## MY Role: 
+In this project, I was responsible for the complete design, development, and implementation of three key applications, including both frontend and backend components:
+
+- **Locker Simulator Application:**
+
+- **Delivery Driver Application:**
+  
+- **Parcel Generator "Robot" Application:**
+  
+
 ## Key Features
 
 ### 1. Consumer User Application
@@ -30,21 +44,6 @@ The Parcel App project was conceived as part of the Advanced Web Applications De
 - **Backend: Node.js, Express**
 - **Frontend: JavaScript, React**
 - **Database: MySQL**
-
-
-## Project Team
-
-Our dedicated team members collaborated to bring the Parcel App to life. Each team member played a crucial role in the project's success.
-
-## MY Role: 
-In this project, I was responsible for the complete design, development, and implementation of three key applications, including both frontend and backend components:
-
-- **Locker Simulator Application:**
-
-- **Delivery Driver Application:**
-  
-- **Parcel Generator "Robot" Application:**
- 
 
 
 ## Installation and Usage
@@ -85,7 +84,5 @@ Thank you for your interest in Parcel App!
 
 **#ADVANCED WEB APPLICATION PROJECT**
 **#Web Development**
-
-## This repository contains all the files used to make the **Parcel Generator "Robot"**.
 
 
