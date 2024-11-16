@@ -27,10 +27,10 @@ The Parcel App project was conceived as part of the Advanced Web Applications De
 - **Parcel generator robot:** An application that generates new parcels for consumer users. 
 
 ## Technologies Used
-Backend: Node.js, Express
-Frontend: JavaScript, React
-Database: MySQL
-Deployment: Azure
+**Backend: Node.js, Express**
+**Frontend: JavaScript, React**
+**Database: MySQL**
+
 
 ## Project Team
 
@@ -99,11 +99,4 @@ Thank you for your interest in Parcel App!
 
 ## This repository contains all the files used to make the **Parcel Generator "Robot"**.
 
-
-**#JavaScript
-#React
-#Node.js
-#Express
-#API
-#MySQL**
 
